@@ -1,4 +1,5 @@
 # MedicalChatbotUsingLlama2
+An intelligent medical chatbot, developed using Flask, LangChain, and a Pinecone vector database for Retrieval-based Question Answering (QA). This chatbot assists users with healthcare-related queries by providing accurate and contextually relevant responses based on a curated knowledge base of medical information.
 
 ![](https://github.com/princejaiswal03/MedicalChatbotUsingLlama2/blob/main/static/images/medical-chatbot-demo-screenshot-1.png)
 ![](https://github.com/princejaiswal03/MedicalChatbotUsingLlama2/blob/main/static/images/medical-chatbot-demo-screenshot.png)
