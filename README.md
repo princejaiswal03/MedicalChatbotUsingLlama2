@@ -1,7 +1,7 @@
 # MedicalChatbotUsingLlama2
 
-![](E:\Self\MedicalChatbotUsingLlama2\static\images\medical-chatbot-demo-screenshot-1.png)
-![](E:\Self\MedicalChatbotUsingLlama2\static\images\medical-chatbot-demo-screenshot.png)
+![](https://github.com/princejaiswal03/MedicalChatbotUsingLlama2/blob/main/static/images/medical-chatbot-demo-screenshot-1.png)
+![](https://github.com/princejaiswal03/MedicalChatbotUsingLlama2/blob/main/static/images/medical-chatbot-demo-screenshot.png)
 
 # How to run?
 
